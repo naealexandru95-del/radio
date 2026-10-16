@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,One World Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3
+#EXTINF:-1,RIX FM
+https://fm01-ice.stream.khz.se/fm01_mp3
+#EXTINF:-1,Power Hit Radio
+https://fm04-ice.stream.khz.se/fm04_mp3
+#EXTINF:-1,Capital FM
+https://media-ssl.musicradio.com/Capital
+#EXTINF:-1,BBC Radio 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8
+#EXTINF:-1,SLAM! NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_AAC.aac
+#EXTINF:-1,I Love Dance First
+https://streams.iloveradio.de/iloveradio103.mp3
+#EXTINF:-1,Capital DANCE
+https://media-ssl.musicradio.com/CapitalDance
